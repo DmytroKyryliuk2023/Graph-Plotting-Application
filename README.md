@@ -9,4 +9,5 @@ This project is a Graph Plotting Application with a graphical user interface bui
 
 - <b>Python</b>  
 - <b>Matplotlib</b>
-- <b>Tkinter</b>  
+- <b>Tkinter</b>
+- <b>Unittest</b>
